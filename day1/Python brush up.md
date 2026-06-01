@@ -242,4 +242,58 @@ x *= 3   # 39
 
 
 
+## 
+![[Pasted image 20260601125157.png]]
+```python
+w = int (input())
+print((w%2!=0 or w==2)?"YES":"NO")
+```
 
+
+## BearBro 
+![[Pasted image 20260601184339.png]]
+```python
+a,b =map(int,input().split())
+i=0
+while(a<=b):
+a*=3
+b*=2
+i+=1
+print(i)
+```
+
+## CheapTravel
+![[Pasted image 20260601184647.png]]
+
+```python
+ n, m, a, b = map(int,input().split())
+if((n//m)*b < n * a):
+
+print( ((n//m)*b) + min((n%m * a),b))
+
+else:
+
+print(n*a)
+#------------------------------Better named--------------------------------------
+rides, special_ticket, single_price, group_price = map(int, input().split())
+
+
+
+groups = rides // special_ticket
+cost_groups = groups * group_price
+remainder = rides % special_ticket
+cost_remainder = min(remainder * single_price, group_price)
+
+  
+
+total_using_groups = cost_groups + cost_remainder
+cost_all_singles = rides * single_price
+
+if total_using_groups < cost_all_singles:
+
+print(total_using_groups)
+
+else:
+
+print(cost_all_singles)
+```
