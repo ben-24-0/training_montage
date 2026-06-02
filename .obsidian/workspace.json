@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9cd738462677ea9",
+        "id": "f08461b4d3c5a749",
         "type": "tabs",
         "children": [
           {
-            "id": "50f95f2ddb28db68",
+            "id": "5097a2f3295cf9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50f95f2ddb28db68",
+  "active": "5097a2f3295cf9c0",
   "lastOpenFiles": [
+    "day2/armstrong.py",
     "Pasted image 20260601184647.png",
     "Pasted image 20260601184339.png",
     "day1/Python brush up.md",
