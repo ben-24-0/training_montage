@@ -243,7 +243,7 @@ x *= 3   # 39
 
 
 ## 
-![[Pasted image 20260601125157.png]]
+![[Watermelon.png]]
 ```python
 w = int (input())
 print((w%2!=0 or w==2)?"YES":"NO")
@@ -251,7 +251,7 @@ print((w%2!=0 or w==2)?"YES":"NO")
 
 
 ## BearBro 
-![[Pasted image 20260601184339.png]]
+![[BearBro.png]]
 ```python
 a,b =map(int,input().split())
 i=0
@@ -263,7 +263,7 @@ print(i)
 ```
 
 ## CheapTravel
-![[Pasted image 20260601184647.png]]
+![[cheapTravel.png]]
 
 ```python
  n, m, a, b = map(int,input().split())
