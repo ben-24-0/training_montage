@@ -297,3 +297,5 @@ else:
 
 print(cost_all_singles)
 ```
+
+#python #dsa
