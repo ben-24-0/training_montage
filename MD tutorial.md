@@ -208,3 +208,239 @@ Now clicking them opens those notes.
 ```
 
 Then Obsidian can group all notes with the same tag.
+
+
+# Markdown Math Cheat Sheet (Obsidian)
+
+## Inline Math
+
+```md
+$x^2$
+```
+
+Result: (x^2)
+
+```md
+$\frac{1}{2}$
+```
+
+Result: (\frac{1}{2})
+
+### Larger Inline Fraction
+
+```md
+$\dfrac{1}{2}$
+```
+
+or
+
+```md
+$\displaystyle \frac{1}{2}$
+```
+$\displaystyle \frac{1}{2}$
+
+---
+
+## Block Math
+
+```md
+$$
+\frac{a+b}{c+d}
+$$
+```
+
+$$
+\frac{a+b}{c+d}
+$$
+
+---
+
+## Multi-line Equations
+
+### Recommended (Works in Obsidian)
+
+```md
+$$
+\begin{array}{l}
+100x = 88x + 396 \\
+12x = 396 \\
+x = 33
+\end{array}
+$$
+```
+
+$$
+\begin{array}{l}
+100x = 88x + 396 \\
+12x = 396 \\
+x = 33
+\end{array}
+$$
+---
+
+## Align Equal Signs
+
+```md
+$$
+\begin{array}{rcl}
+100x & = & 88x + 396 \\
+12x  & = & 396 \\
+x    & = & 33
+\end{array}
+$$
+```
+
+$$
+\begin{array}{rcl}
+100x & = & 88x + 396 \\
+12x  & = & 396 \\
+x    & = & 33
+\end{array}
+$$
+
+### Column Types
+
+|Symbol|Meaning|
+|---|---|
+|l|Left align|
+|c|Center|
+|r|Right align|
+
+Example:
+
+```md
+\begin{array}{rcl}
+a & = & b \\
+c & = & d
+\end{array}
+```
+
+---
+
+## Common Math Symbols
+
+### Powers
+
+```md
+x^2
+```
+x^2
+```md
+x^{10}
+```
+
+$$x^{10}$$
+
+### Subscripts
+
+```md
+a_1
+```
+
+a_1
+```md
+a_{n+1}
+```
+
+$$a_{n+1}$$
+
+### Square Root
+
+```md
+\sqrt{x}
+```
+$$
+\sqrt{x}
+
+$$
+```md
+\sqrt[3]{x}
+```
+
+$$sqrt[3]{x}$$
+### Fractions
+
+```md
+\frac{a}{b}
+```
+
+### Summation
+
+```md
+\sum_{i=1}^{n} i
+```
+
+$$\sum_{i=1}^{n} i$$
+### Product
+
+```md
+\prod_{i=1}^{n} i
+```
+$$\prod_{i=1}^{n} i$$
+### Infinity
+
+```md
+\infty
+```
+
+---
+
+## Interview / DSA Examples
+
+```md
+$$
+\begin{array}{l}
+\text{Sum of first n numbers} \\
+n(n+1)/2
+\end{array}
+$$
+```
+
+```md
+$$
+\begin{array}{l}
+\text{Binary Search} \\
+O(\log n)
+\end{array}
+$$
+```
+
+```md
+$$
+\begin{array}{l}
+\text{Arithmetic Progression} \\
+S = \frac{n}{2}(a+l)
+\end{array}
+$$
+```
+
+---
+
+## New Line
+
+Inside arrays:
+
+```md
+\\
+```
+
+Example:
+
+```md
+a = b \\
+c = d
+```
+
+---
+
+## Useful Tip
+
+For quick notes, these are often easier to read than rendered math:
+
+```text
+n(n+1)/2
+O(log n)
+a^2 + b^2 = c^2
+```
+
+Reserve LaTeX for derivations and multi-step calculations.

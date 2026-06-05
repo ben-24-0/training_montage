@@ -509,6 +509,9 @@ print(new_nums)
 
 Creates a shallow copy.
 
+>[!TIP]
+>sorting even and odd number in ascending and descending order 
+>
 ```python
 a = [1, 2, 3]
 b = a.copy()
@@ -518,7 +521,98 @@ b.append(4)
 print(a)
 # [1, 2, 3]
 
-print(b)
-# [1, 2, 3, 4]
+print(b)``` 
+
+### Arrange Odd and Even Numbers
+
+**Question:**  
+Given a list of integers, place all odd numbers at the beginning in reverse order of appearance and all even numbers at the end in their original order.
+
+```python
+li = [6, 4, 5, 3, 2, 1]
+
+li.sort()      # [1, 2, 3, 4, 5, 6]
+
+res = []
+
+for i in li:
+    if i % 2 == 0:
+        res.append(i)
+    else:
+        res.insert(0, i)
+
+print(res)
 ```
-#python #dsa
+
+Output:
+
+```python
+[5, 3, 1, 2, 4, 6]
+```
+
+### Step-by-Step
+
+```python
+i = 1 (odd)
+res = [1]
+```
+
+```python
+i = 2 (even)
+res = [1, 2]
+```
+
+```python
+i = 3 (odd)
+res = [3, 1, 2]
+```
+
+```python
+i = 4 (even)
+res = [3, 1, 2, 4]
+```
+
+```python
+i = 5 (odd)
+res = [5, 3, 1, 2, 4]
+```
+
+```python
+i = 6 (even)
+res = [5, 3, 1, 2, 4, 6]
+```
+
+### Observation
+
+- `insert(0, x)` places odd numbers at the front.
+- `append(x)` places even numbers at the back.
+- Odd numbers appear in reverse order.
+- Even numbers maintain their original order.
+
+>
+  ![[Recruit.png]]
+
+```python
+n= int(input())
+li = list(map(int,input().split(" ")))
+
+  
+
+
+police=0
+unsolved=0
+# print(li)
+for i in li:
+	if i == -1:
+		if police > 0:
+			police-=1
+	else:
+		unsolved+=1
+	elif i >=1:
+		police+=i
+
+print(unsolved)
+
+
+
+```
