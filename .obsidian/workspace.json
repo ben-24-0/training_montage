@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f08461b4d3c5a749",
+        "id": "37870ce1c9e3e696",
         "type": "tabs",
         "children": [
           {
-            "id": "5097a2f3295cf9c0",
+            "id": "715c87f7fbb8203a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day4/DSA.md",
+                "file": "day5/DSA.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,34 +22,21 @@
             }
           },
           {
-            "id": "4a82a7a54cd91e60",
+            "id": "33622c8fb88cae74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day4/SoftSkillls.md",
+                "file": "day5/SoftSkills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SoftSkillls"
-            }
-          },
-          {
-            "id": "36d79c5e6577d525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "day4/Resume Building.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resume Building"
+              "title": "SoftSkills"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day1/Python brush up.md",
+                "file": "day5/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python brush up"
+              "title": "Backlinks for DSA"
             }
           },
           {
@@ -141,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day1/Python brush up.md",
+                "file": "day5/SoftSkills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python brush up"
+              "title": "Outgoing links from SoftSkills"
             }
           },
           {
@@ -165,7 +152,7 @@
             }
           },
           {
-            "id": "3a8e9bbaf776c966",
+            "id": "9af569651a6b5379",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -179,22 +166,22 @@
             }
           },
           {
-            "id": "1acad804e9ce563e",
+            "id": "0395887f511088b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "day1/Python brush up.md",
+                "file": "day5/DSA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Python brush up"
+              "title": "Outline of DSA"
             }
           },
           {
-            "id": "232f5946deb1f04d",
+            "id": "93a8150a8ecc9e6e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -222,9 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5097a2f3295cf9c0",
+  "active": "33622c8fb88cae74",
   "lastOpenFiles": [
+    "day5/DSA.md",
+    "day5/SoftSkills.md",
+    "713.md",
+    "day5/strCompression.py",
     "MD tutorial.md",
+    "day5/Password.py",
+    "2026-06-06.md",
+    "day5/varSlidingWin.py",
+    "linkTable.base",
+    "day5",
     "day4/Resume Building.md",
     "day4/SoftSkillls.md",
     "day4/DSA.md",
@@ -243,12 +239,7 @@
     "Pasted image 20260605102305.png",
     "Pasted image 20260605102258.png",
     "Pasted image 20260605101527.png",
-    "Untitled.base",
     "day2/DSA.md",
-    "day3",
-    "day2/onesortlist.py",
-    "day2/listcpy.py",
-    "day1/Python brush up.md",
-    "day2/kthmissing.py"
+    "day1/Python brush up.md"
   ]
 }
