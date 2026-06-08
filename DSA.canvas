@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c852bc489688c239","type":"file","file":"day2/DSA.md","x":-397,"y":-860,"width":400,"height":400},
+		{"id":"1c062896742e5ca4","type":"file","file":"day4/DSA.md","x":3,"y":-400,"width":400,"height":451},
+		{"id":"c7b58709f726ec06","x":403,"y":120,"width":400,"height":400,"type":"file","file":"day5/DSA.md"},
+		{"id":"bcfc29954116ec39","x":803,"y":600,"width":400,"height":400,"type":"file","file":"day6/DSA (Recursion + BackTracking).md"},
+		{"id":"09cab0f80ef70824","type":"file","file":"day1/Python brush up.md","x":-880,"y":-1260,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"37e0185f75510d6f","fromNode":"09cab0f80ef70824","fromSide":"bottom","toNode":"c852bc489688c239","toSide":"top"},
+		{"id":"4490abbfe97a0b20","fromNode":"c852bc489688c239","fromSide":"bottom","toNode":"1c062896742e5ca4","toSide":"top"},
+		{"id":"8f6bdb4b0ae2dc9c","fromNode":"1c062896742e5ca4","fromSide":"bottom","toNode":"c7b58709f726ec06","toSide":"top"},
+		{"id":"685b28dd75374419","fromNode":"c7b58709f726ec06","fromSide":"bottom","toNode":"bcfc29954116ec39","toSide":"top"}
+	]
+}

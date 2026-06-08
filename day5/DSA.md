@@ -143,7 +143,9 @@ class Solution:
             elif nums[avg]>target:
                 high=avg-1
         return inx
+        
 ```
+## Problems Solved
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/2024152113/)
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
@@ -335,3 +337,52 @@ O(n log(maxAnswer))
 
 
 ## [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+```python
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        low = 0
+        high = x
+        ans = 0
+
+        while low <= high:
+            mid = (low + high) // 2
+
+            if mid * mid == x:
+                return mid
+
+            if mid * mid < x:
+                ans = mid
+                low = mid + 1
+            else:
+                high = mid - 1
+
+        return ans
+```
+
+## [443. String Compression](https://leetcode.com/problems/string-compression/)
+```python
+class Solution:
+    def compress(self, chars: List[str]) -> int:
+        nw = ""
+        count = 1
+
+        for i in range(1, len(chars) + 1):
+            if i < len(chars) and chars[i] == chars[i - 1]:
+                count += 1
+            else:
+                nw += chars[i - 1]
+
+                if count > 1:
+                    nw += str(count)
+
+                count = 1
+
+        chars[:] = list(nw)
+        return len(chars)
+```
+
+
+
+
+
+

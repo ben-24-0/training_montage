@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day5/DSA.md",
+                "file": "day6/DSA (Recursion + BackTracking).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
-            }
-          },
-          {
-            "id": "33622c8fb88cae74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "day5/SoftSkills.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SoftSkills"
+              "title": "DSA (Recursion + BackTracking)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,37 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33622c8fb88cae74",
+  "active": "715c87f7fbb8203a",
   "lastOpenFiles": [
+    "day6/mze.py",
+    "day6/HeatBlast.py",
+    "Pasted image 20260608152746.png",
+    "day6/fibo.py",
+    "day6/redAnumto1.py",
+    "day6/ret200.py",
+    "day6/rec6.py",
+    "day6/rec5.py",
+    "day6/rec4.py",
+    "day6/rec4",
+    "day6/rec3.py",
+    "day6/Rec2.py",
+    "MD tutorial.md",
+    "day6/DSA (Recursion + BackTracking).md",
+    "Pasted image 20260608092737.png",
+    "DSA.canvas",
     "day5/DSA.md",
     "day5/SoftSkills.md",
+    "day4/DSA.md",
+    "day2/DSA.md",
+    "day1/Python brush up.md",
+    "Pasted image 20260606190137.png",
     "713.md",
-    "day5/strCompression.py",
-    "MD tutorial.md",
-    "day5/Password.py",
     "2026-06-06.md",
-    "day5/varSlidingWin.py",
-    "linkTable.base",
-    "day5",
     "day4/Resume Building.md",
     "day4/SoftSkillls.md",
-    "day4/DSA.md",
-    "day4/slidingWindow.py",
-    "day4/bookshelf.py",
-    "day4/merge",
-    "day4/kRotateList.py",
-    "day4",
     "Pasted image 20260605103919.png",
     "Pasted image 20260605103840.png",
     "Pasted image 20260605103757 2.png",
     "Pasted image 20260605103757 1.png",
     "Pasted image 20260605103757.png",
     "Pasted image 20260605102805.png",
-    "Pasted image 20260605102312.png",
-    "Pasted image 20260605102305.png",
-    "Pasted image 20260605102258.png",
-    "Pasted image 20260605101527.png",
-    "day2/DSA.md",
-    "day1/Python brush up.md"
+    "Pasted image 20260605102312.png"
   ]
 }
