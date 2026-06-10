@@ -17,12 +17,12 @@ Main Topic └─ Sub Topic     └─ Smaller Topic
 Three backticks:
 
 ````
-```pythona, b = map(int, input().split())```
+```python a, b = map(int, input().split())```
 ````
 
 Output:
 
-```
+``` python
 a, b = map(int, input().split())
 ```
 
@@ -164,6 +164,7 @@ Perfect for placement prep.
 ```
 
 Output becomes fancy colored boxes in Obsidian.
+# 11 Folding Sections
 
 Example:
 
@@ -173,7 +174,7 @@ Example:
 
 ---
 
-# 11. Folding Sections
+	# 11. Folding Sections
 
 ```
 <details><summary>Click to expand</summary>Hidden content here.</details>
@@ -440,7 +441,7 @@ For quick notes, these are often easier to read than rendered math:
 ```text
 n(n+1)/2
 O(log n)
-a^2 + b^2 = c^2
+a^2 + b^2 = c^2 
 ```
 
 Reserve LaTeX for derivations and multi-step calculations.

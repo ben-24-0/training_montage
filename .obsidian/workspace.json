@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "574cc52d47fecb5f",
+        "id": "740e0d2f75f55f1f",
         "type": "tabs",
         "children": [
           {
-            "id": "b95886bd4f5a7350",
+            "id": "473fabe997ec0689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day7/Stack & Queue.md",
+                "file": "day3/Direction Sense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack & Queue"
+              "title": "Direction Sense"
+            }
+          },
+          {
+            "id": "ceda02bb4938fd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day8/Clock And Time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clock And Time"
+            }
+          },
+          {
+            "id": "43dfab735e2ce299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day1/Analogy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analogy"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8eaefd11c92816e0",
@@ -194,13 +223,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b95886bd4f5a7350",
+  "active": "43dfab735e2ce299",
   "lastOpenFiles": [
-    "Pasted image 20260609171332.png",
-    "day4/Resume Building.md",
-    "day7/Backtracking(contd).md",
+    "day2/Number Series.md",
+    "day1/Analogy.md",
+    "day8/Logic Building.md",
+    "day8/Coding Decoding.md",
+    "Coding Decoding.md",
+    "day8/Untitled.md",
+    "day8/Clock And Time.md",
+    "day3/Direction Sense.md",
+    "day8/Ranking and Order.md",
+    "MD tutorial.md",
+    "day3/Untitled.md",
+    "day3/Blood Relations.md",
+    "day1/Python brush up.md",
+    "day2/List.md",
+    "day4/Rotation of Array.md",
+    "day5/Sliding Window.md",
+    "day8/Interview.md",
+    "day5/SoftSkills.md",
+    "day4/SoftSkillls.md",
+    "day8/Linked List.md",
     "day7/Stack & Queue.md",
+    "day7/Backtracking(contd).md",
     "day6/DSA (Recursion + BackTracking).md",
+    "DSA.canvas",
+    "Blood Relations.md",
+    "day8/LL.py",
+    "cheapTravel.png",
+    "Dislike3.png",
+    "day8/OOPS.md",
+    "day4/Resume Building.md",
+    "Pasted image 20260610094817.png",
+    "day8",
+    "Pasted image 20260609171332.png",
     "day7",
     "day6/mze.py",
     "day6/HeatBlast.py",
@@ -210,26 +267,10 @@
     "day6/ret200.py",
     "day6/rec6.py",
     "day6/rec5.py",
-    "day6/rec4.py",
-    "day6/rec4",
-    "MD tutorial.md",
     "Pasted image 20260608092737.png",
-    "DSA.canvas",
-    "day5/DSA.md",
-    "day5/SoftSkills.md",
-    "day4/DSA.md",
-    "day2/DSA.md",
-    "day1/Python brush up.md",
     "Pasted image 20260606190137.png",
-    "713.md",
-    "2026-06-06.md",
-    "day4/SoftSkillls.md",
     "Pasted image 20260605103919.png",
     "Pasted image 20260605103840.png",
-    "Pasted image 20260605103757 2.png",
-    "Pasted image 20260605103757 1.png",
-    "Pasted image 20260605103757.png",
-    "Pasted image 20260605102805.png",
-    "Pasted image 20260605102312.png"
+    "Pasted image 20260605103757 2.png"
   ]
 }

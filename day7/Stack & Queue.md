@@ -1,4 +1,11 @@
+#dsa
 ## Stack
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+[71. Simplify Path](https://leetcode.com/problems/simplify-path/)
+[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)'
+
 ## MonoTonic Stack
 ### [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 ![[Pasted image 20260609171332.png]]
