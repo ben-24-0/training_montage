@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day8/Linked List.md",
+                "file": "day9/Non Linear DS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked List"
+              "title": "Non Linear DS"
             }
           },
           {
@@ -44,8 +44,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4a55205febb83ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day9/Non Linear DS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Non Linear DS"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,11 +233,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "473fabe997ec0689",
+  "active": "4a55205febb83ebe",
   "lastOpenFiles": [
+    "DSA.canvas",
+    "day9/Non Linear DS.md",
+    "day9/GraphBasics.py",
+    "day9/SQl.md",
+    "day8/Linked List.md",
+    "day9",
     "MD tutorial.md",
     "fa.md",
-    "day8/Linked List.md",
     "day8/SoftSkill/Clock And Time.md",
     "day8/SoftSkill/Coding Decoding.md",
     "day8/SoftSkill/Logic Building.md",
@@ -243,7 +263,6 @@
     "images/Pasted image 20260605100542.png",
     "images/BearBro.png",
     "linkTable.base",
-    "DSA.canvas",
     "images",
     "day2/Number Series.md",
     "Coding Decoding.md",
@@ -251,9 +270,6 @@
     "day5/SoftSkills.md",
     "day4/SoftSkillls.md",
     "day7/Stack & Queue.md",
-    "day7/Backtracking(contd).md",
-    "day6/DSA (Recursion + BackTracking).md",
-    "Blood Relations.md",
     "day8/LL.py",
     "images/cheapTravel.png",
     "images/Pasted image 20260610094817.png",
@@ -263,8 +279,6 @@
     "day6/mze.py",
     "day6/HeatBlast.py",
     "images/Pasted image 20260608152746.png",
-    "day6/fibo.py",
-    "day6/redAnumto1.py",
     "images/Pasted image 20260608092737.png",
     "images/Pasted image 20260606190137.png"
   ]
