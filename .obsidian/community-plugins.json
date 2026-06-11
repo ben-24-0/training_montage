@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-languagetool-plugin",
-  "simple-table-math"
+  "simple-table-math",
+  "obsidian-plugin-toc"
 ]

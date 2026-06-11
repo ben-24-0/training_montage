@@ -1,4 +1,4 @@
-
+#softskills
 # Analogy Practice Set (TCS / Infosys Focus)
 
 > [!TIP]

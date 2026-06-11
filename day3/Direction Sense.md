@@ -1,4 +1,5 @@
 #softskills
+## ESWN (south right to east)
 # Direction Sense — High-Yield Patterns from the PDF
 
 > [!TIP]
