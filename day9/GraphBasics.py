@@ -6,4 +6,4 @@ class Node:
 
 tree = Node(10)
 tree.left = Node(20)
-tree.right = Node(30)
+tree.right = Node(30)sda
