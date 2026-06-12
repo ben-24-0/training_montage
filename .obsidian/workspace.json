@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day9/Non Linear DS.md",
+                "file": "day10/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non Linear DS"
+              "title": "SQL"
             }
           }
         ],
@@ -219,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,8 +235,10 @@
   },
   "active": "4a55205febb83ebe",
   "lastOpenFiles": [
-    "DSA.canvas",
     "day9/Non Linear DS.md",
+    "day10/SQL.md",
+    "day10",
+    "DSA.canvas",
     "day9/GraphBasics.py",
     "day9/SQl.md",
     "day8/Linked List.md",
@@ -277,7 +279,6 @@
     "images/Pasted image 20260609171332.png",
     "day7",
     "day6/mze.py",
-    "day6/HeatBlast.py",
     "images/Pasted image 20260608152746.png",
     "images/Pasted image 20260608092737.png",
     "images/Pasted image 20260606190137.png"
